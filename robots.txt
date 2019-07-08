@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /manager/
+Disallow: /assets/components/
+Disallow: /core/
+Disallow: /mgr/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: *?
+Host: clean-02.ru
+Sitemap: http://clean-02.ru/sitemap.xml
+Sitemap: http://clean-02.ru/sitemapimage.xml
